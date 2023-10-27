@@ -1,0 +1,660 @@
+{
+    "aaData": [
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "100",
+            "branch": "Computer Sciemce",
+            "status": "DELETED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "101",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "QWE",
+            "name": "QQQQQQ",
+            "phonenumber": 789,
+            "id": "102",
+            "branch": "QWE",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Engineering",
+            "name": "John",
+            "phonenumber": 555,
+            "id": "103",
+            "branch": "Engineering",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Mathematics",
+            "name": "Sarah",
+            "phonenumber": 789,
+            "id": "104",
+            "branch": "Mathematics",
+            "status": "DELETED"
+        },
+        {
+            "college": "Electrical Engineering",
+            "name": "Michael",
+            "phonenumber": 123,
+            "id": "105",
+            "branch": "Electrical Engineering",
+            "status": "DELETED"
+        },
+        {
+            "college": "Physics",
+            "name": "Emily",
+            "phonenumber": 456,
+            "id": "106",
+            "branch": "Physics",
+            "status": "PROCESSD"
+        },
+        {
+            "college": "Fine Arts",
+            "name": "David",
+            "phonenumber": 789,
+            "id": "107",
+            "branch": "Fine Arts",
+            "status": "DELETED"
+        },
+        {
+            "college": "Finance",
+            "name": "Linda",
+            "phonenumber": 123,
+            "id": "108",
+            "branch": "Finance",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Medicine",
+            "name": "William",
+            "phonenumber": 654,
+            "id": "109",
+            "branch": "Medicine",
+            "status": "DELETED"
+        },
+        {
+            "college": "Law",
+            "name": "Olivia",
+            "phonenumber": 321,
+            "id": "110",
+            "branch": "Law",
+            "status": "DELETED"
+        },
+        {
+            "college": "Music",
+            "name": "James",
+            "phonenumber": 555,
+            "id": "111",
+            "branch": "Music",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "aaaaaaaaaaaaaa",
+            "name": "Aswathy",
+            "phonenumber": 0,
+            "id": "28",
+            "branch": "aaaaaaaaaaaaaaaa",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Aswathy",
+            "phonenumber": 321,
+            "id": "38",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "39",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "xxxxxxxxxxxx",
+            "name": "xxxxxxxxxxx",
+            "phonenumber": 894,
+            "id": "45",
+            "branch": "xxxxxxxxxxx",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Akshay Raj",
+            "phonenumber": 123,
+            "id": "47",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Aswathy",
+            "phonenumber": 321,
+            "id": "48",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "61",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "62",
+            "branch": "Computer Sciemce",
+            "status": "DELETED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "64",
+            "branch": "Computer Sciemce",
+            "status": "DELETED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "101",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "QWE",
+            "name": "QQQQQQ",
+            "phonenumber": 789,
+            "id": "102",
+            "branch": "QWE",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Engineering",
+            "name": "John",
+            "phonenumber": 555,
+            "id": "103",
+            "branch": "Engineering",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Mathematics",
+            "name": "Sarah",
+            "phonenumber": 789,
+            "id": "104",
+            "branch": "Mathematics",
+            "status": "DELETED"
+        },
+        {
+            "college": "Electrical Engineering",
+            "name": "Michael",
+            "phonenumber": 123,
+            "id": "105",
+            "branch": "Electrical Engineering",
+            "status": "DELETED"
+        },
+        {
+            "college": "Physics",
+            "name": "Emily",
+            "phonenumber": 456,
+            "id": "106",
+            "branch": "Physics",
+            "status": "PROCESSD"
+        },
+        {
+            "college": "Fine Arts",
+            "name": "David",
+            "phonenumber": 789,
+            "id": "107",
+            "branch": "Fine Arts",
+            "status": "DELETED"
+        },
+        {
+            "college": "Finance",
+            "name": "Linda",
+            "phonenumber": 123,
+            "id": "108",
+            "branch": "Finance",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Medicine",
+            "name": "William",
+            "phonenumber": 654,
+            "id": "109",
+            "branch": "Medicine",
+            "status": "DELETED"
+        },
+        {
+            "college": "Law",
+            "name": "Olivia",
+            "phonenumber": 321,
+            "id": "110",
+            "branch": "Law",
+            "status": "DELETED"
+        },
+        {
+            "college": "Music",
+            "name": "James",
+            "phonenumber": 555,
+            "id": "111",
+            "branch": "Music",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "aaaaaaaaaaaaaa",
+            "name": "Aswathy",
+            "phonenumber": 0,
+            "id": "28",
+            "branch": "aaaaaaaaaaaaaaaa",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Aswathy",
+            "phonenumber": 321,
+            "id": "38",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "39",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "xxxxxxxxxxxx",
+            "name": "xxxxxxxxxxx",
+            "phonenumber": 894,
+            "id": "45",
+            "branch": "xxxxxxxxxxx",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Akshay Raj",
+            "phonenumber": 123,
+            "id": "47",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Aswathy",
+            "phonenumber": 321,
+            "id": "48",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "61",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "62",
+            "branch": "Computer Sciemce",
+            "status": "DELETED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "64",
+            "branch": "Computer Sciemce",
+            "status": "DELETED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "101",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "QWE",
+            "name": "QQQQQQ",
+            "phonenumber": 789,
+            "id": "102",
+            "branch": "QWE",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Engineering",
+            "name": "John",
+            "phonenumber": 555,
+            "id": "103",
+            "branch": "Engineering",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Mathematics",
+            "name": "Sarah",
+            "phonenumber": 789,
+            "id": "104",
+            "branch": "Mathematics",
+            "status": "DELETED"
+        },
+        {
+            "college": "Electrical Engineering",
+            "name": "Michael",
+            "phonenumber": 123,
+            "id": "105",
+            "branch": "Electrical Engineering",
+            "status": "DELETED"
+        },
+        {
+            "college": "Physics",
+            "name": "Emily",
+            "phonenumber": 456,
+            "id": "106",
+            "branch": "Physics",
+            "status": "PROCESSD"
+        },
+        {
+            "college": "Fine Arts",
+            "name": "David",
+            "phonenumber": 789,
+            "id": "107",
+            "branch": "Fine Arts",
+            "status": "DELETED"
+        },
+        {
+            "college": "Finance",
+            "name": "Linda",
+            "phonenumber": 123,
+            "id": "108",
+            "branch": "Finance",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Medicine",
+            "name": "William",
+            "phonenumber": 654,
+            "id": "109",
+            "branch": "Medicine",
+            "status": "DELETED"
+        },
+        {
+            "college": "Law",
+            "name": "Olivia",
+            "phonenumber": 321,
+            "id": "110",
+            "branch": "Law",
+            "status": "DELETED"
+        },
+        {
+            "college": "Music",
+            "name": "James",
+            "phonenumber": 555,
+            "id": "111",
+            "branch": "Music",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "aaaaaaaaaaaaaa",
+            "name": "Aswathy",
+            "phonenumber": 0,
+            "id": "28",
+            "branch": "aaaaaaaaaaaaaaaa",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Aswathy",
+            "phonenumber": 321,
+            "id": "38",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "39",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "xxxxxxxxxxxx",
+            "name": "xxxxxxxxxxx",
+            "phonenumber": 894,
+            "id": "45",
+            "branch": "xxxxxxxxxxx",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Akshay Raj",
+            "phonenumber": 123,
+            "id": "47",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Aswathy",
+            "phonenumber": 321,
+            "id": "48",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "61",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "62",
+            "branch": "Computer Sciemce",
+            "status": "DELETED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "64",
+            "branch": "Computer Sciemce",
+            "status": "DELETED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "101",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "QWE",
+            "name": "QQQQQQ",
+            "phonenumber": 789,
+            "id": "102",
+            "branch": "QWE",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Engineering",
+            "name": "John",
+            "phonenumber": 555,
+            "id": "103",
+            "branch": "Engineering",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Mathematics",
+            "name": "Sarah",
+            "phonenumber": 789,
+            "id": "104",
+            "branch": "Mathematics",
+            "status": "DELETED"
+        },
+        {
+            "college": "Electrical Engineering",
+            "name": "Michael",
+            "phonenumber": 123,
+            "id": "105",
+            "branch": "Electrical Engineering",
+            "status": "DELETED"
+        },
+        {
+            "college": "Physics",
+            "name": "Emily",
+            "phonenumber": 456,
+            "id": "106",
+            "branch": "Physics",
+            "status": "PROCESSD"
+        },
+        {
+            "college": "Fine Arts",
+            "name": "David",
+            "phonenumber": 789,
+            "id": "107",
+            "branch": "Fine Arts",
+            "status": "DELETED"
+        },
+        {
+            "college": "Finance",
+            "name": "Linda",
+            "phonenumber": 123,
+            "id": "108",
+            "branch": "Finance",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Medicine",
+            "name": "William",
+            "phonenumber": 654,
+            "id": "109",
+            "branch": "Medicine",
+            "status": "DELETED"
+        },
+        {
+            "college": "Law",
+            "name": "Olivia",
+            "phonenumber": 321,
+            "id": "110",
+            "branch": "Law",
+            "status": "DELETED"
+        },
+        {
+            "college": "Music",
+            "name": "James",
+            "phonenumber": 555,
+            "id": "111",
+            "branch": "Music",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "aaaaaaaaaaaaaa",
+            "name": "Aswathy",
+            "phonenumber": 0,
+            "id": "28",
+            "branch": "aaaaaaaaaaaaaaaa",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Aswathy",
+            "phonenumber": 321,
+            "id": "38",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "39",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "xxxxxxxxxxxx",
+            "name": "xxxxxxxxxxx",
+            "phonenumber": 894,
+            "id": "45",
+            "branch": "xxxxxxxxxxx",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Akshay Raj",
+            "phonenumber": 123,
+            "id": "47",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Aswathy",
+            "phonenumber": 321,
+            "id": "48",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "61",
+            "branch": "Computer Sciemce",
+            "status": "VERIFIED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "62",
+            "branch": "Computer Sciemce",
+            "status": "DELETED"
+        },
+        {
+            "college": "Computer Sciemce",
+            "name": "Antony",
+            "phonenumber": 321,
+            "id": "64",
+            "branch": "Computer Sciemce",
+            "status": "DELETED"
+        },
+        {
+            "college": "vbnm,",
+            "name": "Hussai",
+            "phonenumber": 562,
+            "id": "800",
+            "branch": "vbnm,",
+            "status": "PROCESSD"
+        }
+    ]
+}
