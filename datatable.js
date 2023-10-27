@@ -1,7 +1,7 @@
 
 $(document).ready(function() {
     $('#myTable').DataTable( {
-        'ajax' : 'data.json',
+        'ajax' : 'http://localhost:8085/get-table',
         'columns' : 
         [
             { 'data' : 'college' },
@@ -14,5 +14,3 @@ $(document).ready(function() {
         ]
     });
 });
-
-// http://localhost:8085/get-table
